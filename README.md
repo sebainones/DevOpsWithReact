@@ -26,7 +26,7 @@ Some *prerequisites* in order to follow this training materials:
 * [Yarn applied to CI/CD](https://yarnpkg.com/getting-started)
 * [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [Azure Static Web Apps] (https://azure.microsoft.com/en-us/services/app-service/static/)
+* [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/)
 * [Azure App Service](https://docs.microsoft.com/es-es/azure/app-service/overview)
-* [Postman] (https://www.postman.com/)
+* [Postman](https://www.postman.com/)
 
