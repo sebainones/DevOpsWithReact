@@ -16,3 +16,17 @@ Some *prerequisites* in order to follow this training materials:
   * Or... we might access this collection from our own repo.
 * To have a [fee Docker Hub account](https://hub.docker.com/signup/)
   * Dutring the training depending on how we progresss we may use/practice with this account and related topics.
+
+
+##Links of interest##
+### Technologies & tools ###
+
+* [Git](https://git-scm.com/) / [GitHub](https://github.com/)
+* [GitHub Actions](https://docs.github.com/en/actions)
+* [Yarn applied to CI/CD](https://yarnpkg.com/getting-started)
+* [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Azure Static Web Apps] (https://azure.microsoft.com/en-us/services/app-service/static/)
+* [Azure App Service](https://docs.microsoft.com/es-es/azure/app-service/overview)
+* [Postman] (https://www.postman.com/)
+
